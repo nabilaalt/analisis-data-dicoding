@@ -47,11 +47,6 @@ Kemudian, buka file `analisis_data.ipynb` untuk mulai menjalankan analisis.
 - Penyewaan lebih tinggi pada hari kerja dibandingkan akhir pekan.
 - Waktu pagi (06:00 - 12:00) memiliki tingkat penyewaan tertinggi, sedangkan malam (00:00 - 02:00) memiliki penyewaan terendah.
 
-## 📬 Kontak
-Jika ada pertanyaan atau saran, silakan hubungi:
-- **Nama:** Nabila Alt
-- **GitHub:** [nabilaalt](https://github.com/nabilaalt)
-- **Email:** [email@example.com](mailto:email@example.com)
 
 ---
 _Proyek ini dibuat untuk memenuhi tugas Analisis Data di Dicoding._
